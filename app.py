@@ -7,7 +7,7 @@ import csv
 
 st.title('OCR Tool FOR BUSINESS CARD V1.0 ')
 
-uploaded_file = st.file_uploader("Choose an image file", type=["jpg", "png"])
+uploaded_file = st.file_uploader("Choose Business card image file", type=["jpg", "png"])
 
 def extract_text_from_image(image):
     # Extract the text from the image
