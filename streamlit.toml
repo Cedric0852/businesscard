@@ -1,2 +1,2 @@
 [runtime]
-image = "streamlit/tesseract:latest"
+image = streamlit/tesseract:latest
