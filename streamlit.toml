@@ -1,0 +1,2 @@
+[runtime]
+image = "streamlit/tesseract:latest"
